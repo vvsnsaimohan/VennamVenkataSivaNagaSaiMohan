@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VennamVenkataSivaNagaSaiMohan
-- 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Mohan
+- 👀 I’m interested in ...App Development
+- 🌱 I’m currently learning ...Firebase
+- 💞️ I’m looking to collaborate on ...Backend
 - 📫 How to reach me ... E-mail: vvsnsaimohan@gmail.com
 
 <!---
