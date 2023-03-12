@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...App Development
 - 🌱 I’m currently learning ...Firebase
 - 💞️ I’m looking to collaborate on ...Backend Development
-- 📫 How to reach me ... E-mail: vvsnsaimohan@gmail.com
+- 📫 How to reach me ... E-mail: vvsaimohan@gmail.com
 
 <!---
 VennamVenkataSivaNagaSaiMohan/VennamVenkataSivaNagaSaiMohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
