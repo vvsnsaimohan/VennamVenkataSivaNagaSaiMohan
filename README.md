@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohan
-- 👀 I’m interested in ...App Development
-- 🌱 I’m currently learning ...Firebase
+- 👀 I’m interested in ...Cloud Computing
+- 🌱 I’m currently learning ...Docker
 - 💞️ I’m looking to collaborate on ...Backend Development
 - 📫 How to reach me ... E-mail: vvsnsaimohan@gmail.com
 
